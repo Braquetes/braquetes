@@ -39,5 +39,5 @@ Soy un apasionado desarrollador de software con experiencia en...
 
 ## Encuéntrame en la Web
 
-- [Portafolio](www.braquetes.mx)
-- [LinkedIn](www.linkedin.com/in/rodolfo-braquetes)
+- [Portafolio](http://www.braquetes.mx)
+- [LinkedIn](https://www.linkedin.com/in/rodolfo-braquetes)
