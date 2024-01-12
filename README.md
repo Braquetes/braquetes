@@ -1,7 +1,7 @@
 
 # Hola, Soy Rodolfo Braquetes [LXG DREAQUETES]
 
-![Logo](/assets/img/braquetes.png)
+<!-- ![Logo](/assets/img/braquetes.png) -->
 
 ## Acerca de Mí
 
