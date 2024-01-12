@@ -1,13 +1,12 @@
-
-# Hola, Soy Rodolfo Braquetes [LXG DREAQUETES]
+# Hola, Soy Rodolfo Braquetes [LXG DREAQUETES] 👋
 
 <!-- ![Logo](/assets/img/braquetes.png) -->
 
-## Acerca de Mí
+## Acerca de Mí 🚀
 
 Soy un apasionado desarrollador de software con experiencia en...
 
-## Habilidades
+## Habilidades 💻
 
 ### Lenguajes:
 - Go
@@ -33,11 +32,11 @@ Soy un apasionado desarrollador de software con experiencia en...
 - AWS (Amazon Web Services)
 - Azure (Microsoft Azure)
 
-## Proyectos Destacados
+## Proyectos Destacados 🌟
 
 - [DÄZABI -> Proyecto ganador del hackathon "HACK THE OCEAN"](https://github.com/Braquetes/Waste2Money)
 
-## Encuéntrame en la Web
+## Encuéntrame en la Web 🌐
 
 - [Portafolio](https://braquetes.com.mx)
 - [LinkedIn](https://www.linkedin.com/in/rodolfo-braquetes)
