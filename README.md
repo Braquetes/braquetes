@@ -1,4 +1,4 @@
-# 🌟 **Rodolfo Braquetes** [LXG DREAQUETES] 👋
+# 🌟 **Rodolfo Braquetes** [RB] 👋
 
 ## 🚀 **Sobre Mí**
 
