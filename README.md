@@ -2,9 +2,14 @@
 
 ## 🚀 **Sobre Mí**
 
-¡Hola! Soy **Rodolfo Braquetes**, un apasionado desarrollador de software con más de 4 años de experiencia creando soluciones innovadoras utilizando una variedad de tecnologías. Me especializo en el desarrollo de aplicaciones escalables y eficientes, siempre buscando aprender y mejorar mis habilidades.
+¡Hola! Soy **Rodolfo Braquetes**, un apasionado desarrollador de software con más de 3 años de experiencia creando soluciones innovadoras utilizando una variedad de tecnologías. Me especializo en el desarrollo de aplicaciones escalables y eficientes, siempre buscando aprender y mejorar mis habilidades.
 
 ¡Estoy constantemente buscando nuevos retos y proyectos donde pueda aportar mi experiencia y pasión por la tecnología!
+
+![GitHub followers](https://img.shields.io/github/followers/Braquetes?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Braquetes?style=social)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Braquetes)
+
 
 ---
 
@@ -16,23 +21,6 @@
 - TypeScript (TS)
 - Python
 - PHP
-
-### **Frameworks y Librerías**
-- Angular
-- Svelte
-- Vue.js
-- React
-- Ionic
-- Laravel (PHP Framework)
-
-### **Bases de Datos**
-- MySQL / MariaDB / SQL Server
-- Firebase
-- MongoDB
-
-### **Servicios en la Nube**
-- Azure (Microsoft Azure)
-- AWS (Amazon Web Services)
 
 ---
 
@@ -54,3 +42,12 @@
 
 - **Correo**: edgarbraquetes@gmail.com
 - **Twitter**: [@Rodolfo_Braquetes](https://twitter.com/Rodolfo_Braquetes)
+
+---
+
+## 📈 **Estadísticas**
+
+![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braquetes&show_icons=true&count_private=true&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braquetes&layout=compact&langs_count=8)
+
