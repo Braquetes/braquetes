@@ -15,12 +15,10 @@
 
 ## 💻 **Habilidades**
 
-### **Lenguajes de Programación**
-- Go
-- JavaScript (JS)
-- TypeScript (TS)
-- Python
-- PHP
+- **Lenguajes**: Go, JavaScript (JS), TypeScript (TS), Python, PHP, C.
+- **Frameworks & Librerías**: Angular, Ionic, Svelte, Vue.js, React, Laravel.
+- **Bases de Datos**: MySQL, Firebase, SQLServer, MongoDB.
+- **Cloud Services**: Azure, AWS.
 
 ---
 
